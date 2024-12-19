@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the HealthyMe 1.0
+---------------------------------------------------
+
+app_name - 						HealthyMe
+app_alias - 					healthyme
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Maharashtra
+app_author_country - 			India
+app_password - 					GwWMmWXqI4dQ
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 19th of December 2024 09:13:42 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
